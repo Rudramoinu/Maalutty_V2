@@ -34,9 +34,9 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
 *github* : https://github.com/rudramoinu/Maalutty.
 
 
-*audio commands* :https://github.com/rudramoinu/uploads/tree/main/bgm.
+*audio commands* :https://github.com/nijin-husni/uploads/tree/main/bgm.
 
-*sticker commands* :https://github.com/rudramoinu/uploads/tree/main/stickers.
+*sticker commands* :https://github.com/nijin-husni/uploads/tree/main/stickers.
 ■□■□■□■□■□■□■□■□■□■□
 ❤️Maalutty💙
 ▣▣ ~MOINU~ ▣▣
